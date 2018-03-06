@@ -1,0 +1,9 @@
+[submodule "git"]
+	path = git
+	url = https://github.com/wyatt8740/git-win32.git
+[submodule "glkterm"]
+	path = glkterm
+	url = https://github.com/wyatt8740/glkterm-win32.git
+[submodule "pdcurses"]
+	path = pdcurses
+	url = https://github.com/wmcbrine/PDCurses.git
